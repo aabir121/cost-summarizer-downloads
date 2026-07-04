@@ -7,7 +7,7 @@ Public installer downloads for **Cost Sheet Summarizer**, an offline desktop uti
 Open the [latest release](https://github.com/aabir121/cost-summarizer-downloads/releases/latest) and choose:
 
 - `Cost-Sheet-Summarizer-Setup.exe` for Windows 10/11 x64.
-- `Cost Sheet Summarizer.dmg` for macOS.
+- `Cost-Sheet-Summarizer.dmg` for macOS.
 
 Each release includes `SHA256SUMS.txt` for download verification. The application source repository remains private.
 
